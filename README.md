@@ -2,7 +2,7 @@
 
 <img title="Flamingo plushie in a relaxed pose" src="/My%20project.png" width="270" height="178">
 
->Life's hard enough, so use code to ease it.  [^"info"]
+>Life's hard enough, so use code to ease it.  [^1]
 
 I try to make things easier for everyone, and I think using code is a **great and fun** way to do it.
 
@@ -40,5 +40,12 @@ float Q_rsqrt( float number )
 }
 ```
 
+## Be amazed
+Sure, embedding videos in websites is probably considered ancient technology now, but that doesn't mean it's still not cool!
+Just look at this recipe video for what looks to be really yummy pasta:
+<a href="https://www.youtube.com/watch?v=GRteIZM05Sg&themeRefresh=1" target="_blank">
+	<img src="https://www.youtube.com/watch?v=GRteIZM05Sg&themeRefresh=1/0.jpg" alt="YouTube recipe video for Spaghetti all'Assassina (Assassin’s Spaghetti)" width="240" height="180" border="10"/>
+</a>
+
 ## Footnotes
-[^"info"]: I'm sure someone said something like this before.
+[^1]: I'm sure someone said something like this before.
