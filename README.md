@@ -43,8 +43,9 @@ float Q_rsqrt( float number )
 ## Be amazed
 Sure, embedding videos in websites is probably considered ancient technology now, but that doesn't mean it's still not cool!
 Just look at this recipe video for what looks to be really yummy pasta:
-<a href="https://www.youtube.com/watch?v=GRteIZM05Sg&themeRefresh=1" target="_blank">
-	<img src="https://www.youtube.com/watch?v=GRteIZM05Sg&themeRefresh=1/0.jpg" alt="YouTube recipe video for Spaghetti all'Assassina (Assassin’s Spaghetti)" width="240" height="180" border="10"/>
+<br>
+<a href="https://www.youtube.com/watch?v=GRteIZM05Sg" target="_blank">
+	<img src="https://i3.ytimg.com/vi/GRteIZM05Sg/maxresdefault.jpg" alt="YouTube recipe video for Spaghetti all'Assassina (Assassin’s Spaghetti)" width="240" height="180" border="10"/>
 </a>
 
 ## Footnotes
