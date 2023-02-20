@@ -1,8 +1,10 @@
 # botacode
 
->Life's hard enough, so use code to ease it.
+<img title="Flamingo plushie in a relaxed pose" src="/My%20project.png" width="270" height="178">
 
-I try to make things easier for everyone, and I think using code is a **great** way to do it.
+>Life's hard enough, so use code to ease it.  [^"info"]
+
+I try to make things easier for everyone, and I think using code is a **great and fun** way to do it.
 
 ## (Potential) Projects
 Some might work out, others might not. None exist outside my head *yet*.
@@ -36,4 +38,7 @@ float Q_rsqrt( float number )
 
 	return y;
 }
+```
 
+## Footnotes
+[^"info"]: I'm sure someone said something like this before.
