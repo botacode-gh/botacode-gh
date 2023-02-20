@@ -1,6 +1,6 @@
 # botacode
 
-<img title="Flamingo plushie in a relaxed pose" src="/My%20project.png" align="read" width="270" height="178">
+<img title="Flamingo plushie in a relaxed pose" src="/My%20project.png" align="right" width="270" height="178">
 
 >Life's hard enough, so use code to ease it.  [^1]
 
@@ -43,9 +43,10 @@ float Q_rsqrt( float number )
 ## Be amazed
 Sure, embedding videos in websites is probably considered ancient technology now, but that doesn't mean it's still not cool!
 Just look at this recipe video for what looks to be really yummy pasta:
-<br>
+</br>
+</br>
 <a href="https://www.youtube.com/watch?v=GRteIZM05Sg" target="_blank">
-	<img src="https://i3.ytimg.com/vi/GRteIZM05Sg/maxresdefault.jpg" alt="YouTube recipe video for Spaghetti all'Assassina (Assassin’s Spaghetti)" width="240" height="180" border="10"/>
+	<img src="https://i3.ytimg.com/vi/GRteIZM05Sg/maxresdefault.jpg" alt="YouTube recipe video for Spaghetti all'Assassina (Assassin’s Spaghetti)" width="50%" height="50%" border="10"/>
 </a>
 
 ## Footnotes
