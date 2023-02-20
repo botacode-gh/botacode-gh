@@ -1,6 +1,6 @@
 # botacode
 
-<img title="Flamingo plushie in a relaxed pose" src="/My%20project.png" width="270" height="178">
+<img title="Flamingo plushie in a relaxed pose" src="/My%20project.png" align="read" width="270" height="178">
 
 >Life's hard enough, so use code to ease it.  [^1]
 
