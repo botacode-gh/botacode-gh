@@ -9,7 +9,7 @@ Check out some stuff on my mind:
 
 [Stuff to attempt](#projects)<br/>
 [Stuff to learn](#learnlist)<br/>
-[Other stuff](#misc)<br/>
+[Other stuff](#miscellaneous)<br/>
 
 <h2 id="projects">Stuff to attempt</h2>
 Some might work out, others might not. None exist outside my head *yet*.
@@ -45,7 +45,7 @@ float Q_rsqrt( float number )
 }
 ```
 
-<h2 id="misc">Other stuff</h2>
+<h2 id="miscellaneous">Other stuff</h2>
 Sure, embedding videos in websites is probably considered ancient technology now, but that doesn't mean it's still not cool!
 Just look at this recipe video for what looks to be really yummy pasta:
 </br>
